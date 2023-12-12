@@ -12,7 +12,7 @@
 - 📫 How to reach me **amit2089516@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fbrvBMmnBJuaVYIpMfM1WG_lp4B-6U42/view?usp=drivesdk]
-- (https://drive.google.com/file/d/1fbrvBMmnBJuaVYIpMfM1WG_lp4B-6U42/view?usp=drivesdk)
+
 
 - ⚡ Fun fact **I am funny**
 
