@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fbrvBMmnBJuaVYIpMfM1WG_lp4B-6U42/view?usp=drivesdk]
 
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am a funny guy **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
