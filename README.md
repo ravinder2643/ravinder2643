@@ -15,6 +15,7 @@
 
 
 - ⚡ Fun fact **I am a funny guy **
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjana732&label=Profile%20views&color=0e75b6&style=flat" alt="ravinder2643" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
