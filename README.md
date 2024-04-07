@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Science enthusiast, ML Engineer, Full Stack Developer from India.</h3>
 
 
-<img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
 - 🌱 I’m currently learning **React.js, Courses**
 
@@ -15,7 +15,7 @@
 
 
 - ⚡ Fun fact **I am a funny guy **
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjana732&label=Profile%20views&color=0e75b6&style=flat" alt="ravinder2643" /> </p>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinder2643&label=Profile%20views&color=0e75b6&style=flat" alt="ravinder2643" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
