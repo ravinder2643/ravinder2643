@@ -5,13 +5,13 @@
 
 <img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
-- 🌱 I’m currently learning **React.js, Courses**
+- 🌱 I’m currently learning **Gen AI , LLM**
 
-- 💬 Ask me about **Data Science, Machine Learning , web development**
+- 💬 Ask me about **Data Science, Machine Learning , Full Stack Development**
 
 - 📫 How to reach me **amit2089516@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fbrvBMmnBJuaVYIpMfM1WG_lp4B-6U42/view?usp=drivesdk]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kwfREvABVju6Fh5aPpQF9BPpaeQgVAoJ/view?usp=drivesdk]
 
 
 - ⚡ Fun fact **I am a funny guy **
